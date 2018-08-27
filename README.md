@@ -1,4 +1,4 @@
-# Food Nation
+# Peaky Finder
 
 Peaky Finder is a mobile focused, minimalist designed web application that allows users to discover climbing routes within the Southwest United States. A [live demo] is avaliable for use.
 
